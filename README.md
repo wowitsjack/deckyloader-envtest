@@ -64,7 +64,7 @@ The plugin then displays both raw and cleaned data in a user-friendly, field-by-
 ## Usage
 
 - **Accessing the Plugin:**  
-  Navigate to the debug URL (e.g., `/debug/:appid`) within your Decky interface to load the Decky EnvTest UI.
+  Navigate to a game and open the plugin from the Decky Plugins UI.
 
 - **Logging Game Data:**  
   Click the **DEBUG: Log Game Data** button to log game information. The plugin captures and displays both raw and cleaned game details.
