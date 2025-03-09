@@ -1,0 +1,12 @@
+lockfileVersion: '9.0'
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+importers:
+  .:
+    dependencies:
+      "@decky/api": { specifier: "^1.1.2", version: "1.1.2" },
+      "react-icons": { specifier: "^5.5.0", version: "5.5.0" }
+    devDependencies:
+      "@decky/rollup": { specifier: "^1.0.1", version: "1.0.1" },
+      "@decky/ui": { specifier: "^4.9.1", version: "4.9.1" }

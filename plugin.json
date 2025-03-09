@@ -1,0 +1,11 @@
+{
+  "name": "Decky EnvTest",
+  "author": "wowitsjack",
+  "flags": [],
+  "api_version": 1,
+  "publish": {
+    "tags": ["envtest", "debug", "logging", "steam"],
+    "description": "Decky EnvTest is a debugging tool by wowitsjack that pulls game-specific details via Decky's SteamClient.Apps and Heroic configuration files, then displays the cleaned data in a user-friendly layout with export options.",
+    "image": "https://github.com/wowitsjack/deckyloader-envtest/raw/main/icon.png"
+  }
+}
