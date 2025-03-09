@@ -1,6 +1,8 @@
 # Decky EnvTest
 
-Decky EnvTest is a debugging tool designed for the Decky platform. It logs game-specific details sourced from Decky's SteamClient.Apps and pulls configuration data from Heroic. 
+Decky EnvTest is a debugging tool designed for the Decky Loader dev community. 
+
+It displays game-specific details sourced from Decky's SteamClient.Apps and pulls configuration data from Heroic. 
 
 The plugin then displays both raw and cleaned data in a user-friendly, field-by-field layout, with export options for further analysis.
 
