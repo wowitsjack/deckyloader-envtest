@@ -104,7 +104,7 @@ Contributions to Decky EnvTest are welcome. If you have suggestions, feature req
 
 ## License
 
-Decky EnvTest is released under the **GPL-3.0-or-later** license. See the [LICENSE](LICENSE) file for more details.
+Decky EnvTest is released under the **MIT** license. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgements
 
