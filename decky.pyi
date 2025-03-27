@@ -1,6 +1,6 @@
 """
 Decky Plugin Interface
-Defines constants and helper functions for Decky plugins.
+Defines constants and helper functions for Decky plugins. 
 """
 
 version = "1.0.0"
